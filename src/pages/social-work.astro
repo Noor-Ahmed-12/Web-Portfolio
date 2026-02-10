@@ -1,0 +1,178 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+---
+
+<BaseLayout title="Social Impact | Noor Ahmed" sideBarActiveItemID="social-work">
+  <div class="mb-10">
+    <div class="text-3xl w-full font-bold text-primary">Social Impact & Leadership</div>
+    <p class="py-2 text-lg opacity-80">
+      Bridging technical expertise with humanitarian advocacy to foster resilience, education, and global sustainability.
+    </p>
+  </div>
+
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12 bg-primary/5 p-6 rounded-3xl border border-primary/10">
+    <div class="text-center">
+      <div class="text-2xl font-bold text-primary">UNESCO</div>
+      <div class="text-[10px] uppercase tracking-wider opacity-60 font-bold">BMW Volunteer</div>
+    </div>
+    <div class="text-center border-l border-primary/20">
+      <div class="text-2xl font-bold text-primary">15+ hrs</div>
+      <div class="text-[10px] uppercase tracking-wider opacity-60 font-bold">Strategic Mentoring</div>
+    </div>
+    <div class="text-center border-l border-primary/20">
+      <div class="text-2xl font-bold text-primary">Civic Tech</div>
+      <div class="text-[10px] uppercase tracking-wider opacity-60 font-bold">Contributor</div>
+    </div>
+    <div class="text-center border-l border-primary/20">
+      <div class="text-2xl font-bold text-primary">Provincial</div>
+      <div class="text-[10px] uppercase tracking-wider opacity-60 font-bold">Scout Rep</div>
+    </div>
+  </div>
+
+  <div class="text-2xl w-full font-bold mb-5 border-b border-primary/20 pb-2 italic text-primary">
+    Global Advocacy & Digital Strategy
+  </div>
+
+  <div class="bg-base-100 border border-base-300 rounded-3xl overflow-hidden transition-all shadow-sm mb-10 hover:border-primary/40">
+    <div class="p-6 md:p-8 flex flex-col md:flex-row justify-between items-start gap-4">
+      <div class="flex-1">
+        <div class="flex items-center gap-2 mb-2">
+           <span class="badge badge-primary font-bold text-white text-[10px]">UNESCO BMW CLUB</span>
+           <span class="text-[10px] font-bold opacity-50 uppercase tracking-widest">Web & Digital Advocacy</span>
+        </div>
+        <h2 class="text-2xl font-bold mb-2">Technical Volunteer (Web Development)</h2>
+        <p class="text-sm opacity-70 leading-relaxed max-w-4xl">
+          Leveraging <strong>WordPress development</strong> and digital strategy to amplify UNESCO's mission of peace and the 17 Sustainable Development Goals (SDGs). My work focuses on maintaining and enhancing digital platforms that facilitate global seminars, workshops, and exhibitions, ensuring the organization's mission of <strong>Inner Peace and Ecosystem Support</strong> reaches a worldwide audience through a seamless user experience.
+        </p>
+      </div>
+      <span class="badge badge-outline font-bold px-4 py-3 whitespace-nowrap uppercase tracking-widest">Active</span>
+    </div>
+  </div>
+
+   <div class="text-2xl w-full font-bold mb-5 mt-10 border-b border-secondary/20 pb-2 italic text-secondary">
+    Open Source & Civic Services
+  </div>
+
+  <div class="bg-base-100 border border-base-300 rounded-xl overflow-hidden transition-all shadow-sm mb-10">
+    <div class="p-6 md:p-8 flex flex-col md:flex-row justify-between items-start gap-4">
+      <div class="flex-1">
+        <h2 class="text-2xl font-bold mb-2 text-primary leading-tight">Open Source Developer @ Code for Pakistan</h2>
+        <p class="text-sm opacity-70 leading-relaxed max-w-4xl">
+          Contributing to civic-tech initiatives focused on governance transparency. Leveraging software engineering skills to build tools that empower citizens and improve public service delivery.
+        </p>
+      </div>
+      <span class="badge badge-secondary px-4 py-3 font-bold text-[11px] whitespace-nowrap text-white uppercase tracking-widest">Jan 2026 - Present</span>
+    </div>
+  </div>
+
+  <div class="text-2xl w-full font-bold mb-5 border-b border-primary/20 pb-2 italic text-primary">
+    Youth Mentorship & Behavioral Change
+  </div>
+
+  <div class="bg-base-100 border border-base-300 rounded-3xl overflow-hidden transition-all shadow-sm mb-10">
+    <div class="p-6 md:p-8">
+      <div class="flex flex-col md:flex-row justify-between items-start mb-6 gap-4">
+        <div class="flex-1">
+          <h2 class="text-2xl font-bold mb-2 text-primary leading-tight">Youth Mentor (Rahbar) @ The Citizens Foundation</h2>
+          <p class="text-sm opacity-80 leading-relaxed max-w-4xl mb-6">
+            Selected to lead a cohort of 8th-grade students through the <strong>'Soch se Taqdeer'</strong> (Thought to Destiny) behavioral change program. Mentoring youth in underserved communities to transition from a "victim of circumstance" mindset to becoming "architects of their own future."
+          </p>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-3 text-[13px] opacity-90 mb-8">
+            <div class="flex items-start gap-2">
+              <span class="text-primary font-bold">✓</span> 
+              <span><strong>Strategic Mentorship:</strong> Leading structured 6-week behavioral change cycles.</span>
+            </div>
+            <div class="flex items-start gap-2">
+              <span class="text-primary font-bold">✓</span> 
+              <span><strong>Capacity Building:</strong> Facilitating 15+ hours of workshops on EQ & habit formation.</span>
+            </div>
+            <div class="flex items-start gap-2">
+              <span class="text-primary font-bold">✓</span> 
+              <span><strong>STEM Advocacy:</strong> Providing vocational software engineering guidance to students.</span>
+            </div>
+            <div class="flex items-start gap-2">
+              <span class="text-primary font-bold">✓</span> 
+              <span><strong>Community Leadership:</strong> Fostering resilience and trusted bonds in a safe learning environment.</span>
+            </div>
+          </div>
+        </div>
+        <span class="badge badge-primary px-4 py-3 font-bold text-[11px] whitespace-nowrap text-white uppercase">Jan 2026 - Feb 2026</span>
+      </div>
+
+      <div class="flex gap-4 overflow-x-auto py-2 no-scrollbar scroll-smooth">
+        {
+          [
+            "1gCzaLgUZP2Fzz33P470U2JAGv5JBJ7bv",
+            "1wr9kqnvnypvzJPVcKHds6ll69325k-5j",
+            "1BfZzjab0R8sOzo0G7LB7nyiHk75RMW6E",
+            "1sgUCX7NJPmseMFJEmHQURrMylBK8k8VS"
+          ].map((id) => (
+            <div class="min-w-[280px] md:flex-1 aspect-video rounded-xl overflow-hidden border border-base-300 shadow-sm bg-base-200">
+              <img 
+                src={`https://lh3.googleusercontent.com/u/0/d/${id}`} 
+                class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" 
+                alt="TCF Mentorship Session - Rahbar Program"
+                loading="lazy"
+              />
+            </div>
+          ))
+        }
+      </div>
+      <p class="text-[10px] opacity-40 mt-3 italic text-center italic">Digital documentation of 'Mera Rahbar' curriculum.</p>
+    </div>
+  </div>
+
+ 
+
+  <div class="text-2xl w-full font-bold mb-5 mt-10 border-b border-secondary/20 pb-2 italic text-secondary">
+    Organizational Leadership & Design
+  </div>
+
+  <div class="bg-base-100 border border-base-300 rounded-xl overflow-hidden transition-all shadow-sm mb-10">
+    <div class="p-6 md:p-8">
+      <div class="flex flex-col md:flex-row justify-between items-start mb-6 gap-4">
+        <div class="flex-1 text-primary">
+          <h2 class="text-2xl font-bold mb-2">Design & Events Coordinator @ SES MUET</h2>
+          <p class="text-sm opacity-70 leading-relaxed max-w-4xl mb-4">
+            Spearheaded visual identity for 20+ tech events annually. Drove a 30% increase in event engagement through strategic branding and Figma-led design execution for 500+ attendees.
+          </p>
+        </div>
+        <span class="badge badge-primary px-4 py-3 font-bold text-[11px] whitespace-nowrap text-white uppercase">2020 - 2021</span>
+      </div>
+      <div class="flex gap-4 overflow-x-auto py-2 no-scrollbar scroll-smooth">
+        <div class="min-w-[280px] md:min-w-[350px] aspect-video rounded-xl overflow-hidden border border-base-300 bg-base-200">
+           <img src="https://lh3.googleusercontent.com/d/1UWgf14hHvyf8ltnjkZpUNkyzAhYWu9y4" class="w-full h-full object-cover" alt="SES Certificate" />
+        </div>
+        <div class="min-w-[280px] md:min-w-[350px] aspect-video rounded-xl overflow-hidden border border-base-300 bg-base-200">
+           <img src="https://lh3.googleusercontent.com/d/1inKdBjz28IVTSt5EQy1nvzYAbAOST_SE" class="w-full h-full object-cover" alt="SES Team" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-2xl w-full font-bold mb-5 mt-10 border-b border-accent/20 pb-2 italic text-accent">
+    Civic Foundation & Discipline
+  </div>
+
+  <HorizontalCard
+    title="Scout | Provincial Representative @ Pakistan Boy Scouts"
+    img="/scoutsprogram.png"
+    desc="Represented Mirpurkhas in a provincial residency program in Karachi. This intensive training focused on emergency response, civic leadership, and team discipline, building the resilience and ethics I bring to my engineering career."
+    url="https://sindhscout.org/"
+    badge="NOV 2016"
+  />
+
+  <div class="bg-base-200 p-8 rounded-2xl mt-12 border border-base-300 text-center">
+    <h3 class="font-bold text-xl mb-3 opacity-50 italic">Impact Philosophy</h3>
+    <p class="italic opacity-90 text-lg max-w-2xl mx-auto">
+      "Engineering is not just about solving technical problems; it's about solving human ones. My work reflects a commitment to building a society where technology is accessible to everyone."
+    </p>
+  </div>
+</BaseLayout>
+
+<style>
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+</style>

@@ -1,0 +1,132 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+import { getCollection } from "astro:content";
+import createSlug from "../lib/createSlug"
+
+const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const last_posts = posts.slice(0, 3);
+---
+
+<BaseLayout sideBarActiveItemID="home">
+  <div class="pb-12 mt-5">
+    <div class="flex flex-wrap gap-3 mb-8">
+      <a href="#" class="flex items-center gap-2 bg-primary/10 border border-primary/20 px-4 py-2 rounded-full hover:bg-primary/20 transition-all">
+        <span class="text-xs font-bold uppercase">English</span>
+        <span class="text-sm font-semibold text-primary font-mono">IELTS Certified</span>
+      </a>
+      <a href="#" class="flex items-center gap-2 bg-secondary/10 border border-secondary/20 px-4 py-2 rounded-full hover:bg-secondary/20 transition-all">
+        <span class="text-xs font-bold uppercase">German</span>
+        <span class="text-sm font-semibold text-secondary font-mono">A2/B1 Certified</span>
+      </a>
+    </div>
+
+    <div class="text-xl py-1 font-medium">Greetings 👋</div>
+    <div class="text-5xl font-bold">I'm Noor Ahmed</div>
+    <div class="text-3xl py-3 font-bold text-primary">Data • AI • Cloud Infrastructure</div>
+    
+    <div class="py-2">
+      <p class="text-lg leading-relaxed max-w-3xl">
+        I bridge the gap between <b>DevOps, Artificial Intelligence, and Data Engineering</b> to drive global social impact. 
+        Currently at <b>Contour Software</b>, I orchestrate enterprise-grade infrastructure to power intelligent, data-driven solutions.
+        <br/><br/>
+        As a <b>Content Creator</b> and <b>Open Source Contributor</b> at <a href="https://codeforpakistan.org/" target="_blank" class="text-primary underline underline-offset-4 font-semibold">Code for Pakistan</a>, I focus on civic-tech innovation and empowering the next generation of engineers through technical education.
+      </p>
+    </div>
+
+    <div class="mt-8 flex gap-4">
+      <a class="btn btn-primary" href="https://www.linkedin.com/in/noor-ahmedd/" target="_blank"> Let's Connect!</a>
+      <a href="https://drive.google.com/file/d/1DMR3YuoCEqhnWe5g2fe-KXU_Bq8Hv6Mj/view?usp=sharing" target="_blank" class="btn btn-outline">
+        Download CV
+      </a>
+    </div>
+  </div>
+
+  <div class="stats shadow w-full mb-12 bg-base-200 border border-base-300">
+    <div class="stat">
+      <div class="stat-title text-xs uppercase font-bold">Total Projects</div>
+      <div class="stat-value text-primary text-3xl">90+</div>
+      <div class="stat-desc font-medium">Industry & Community</div>
+    </div>
+    
+    <div class="stat">
+      <div class="stat-title text-xs uppercase font-bold">Global Impact</div>
+      <div class="stat-value text-secondary text-3xl">5+ Orgs</div>
+      <div class="stat-desc font-medium">UN, NGO & Civic-Tech</div>
+    </div>
+
+    <div class="stat hidden md:grid">
+      <div class="stat-title text-xs uppercase font-bold">Community Reach</div>
+      <div class="stat-value text-accent text-3xl">500+</div>
+      <div class="stat-desc font-medium">Active Tech Learners</div>
+    </div>
+  </div>
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-5 italic font-mono text-base-content/80">
+      The Multidisciplinary Pillar {"{/}"}
+    </div>
+  </div>
+
+ <HorizontalCard
+    title="ArcPay: AI-Driven Fintech Framework"
+    desc="Developed during a competitive AI Hackathon. Architected an intelligent payment solution leveraging AI to optimize transaction workflows and financial accessibility."
+    url="https://github.com/Noor-Ahmed-12/ArcPay"
+    badge="AI HACKATHON"
+  />
+  <div class="divider my-0 opacity-50"></div>
+
+  <HorizontalCard
+    title="Open Source Contributor: Code for Pakistan (Civic-Tech)"
+    desc="Active contributor to civic-tech transformation. Leveraging data engineering to improve digital representation and government-citizen engagement."
+    url="https://codeforpakistan.org/"
+    badge="OPEN SOURCE"
+  />
+  <div class="divider my-0 opacity-50"></div>
+
+  <HorizontalCard
+    title="Social Work & Mentorship"
+    desc="Driving inclusion through AI training for the physically disabled and academic mentorship with TCF Rehbar."
+    url="/social-work"
+    badge="IMPACT"
+  />
+  <div class="divider my-0 opacity-50"></div>
+
+  <HorizontalCard
+    title="Content Creation: Cloud & Data Systems"
+    desc="Bridging the gap between Cloud Infrastructure, Big Data, and AI Engineering via NasTech Solutions and my LinkedIn Newsletter."
+    url="/knowledge-hub"
+    badge="CREATOR"
+  />
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-5 mt-12 italic font-mono text-base-content/80">
+      Content Creation & Knowledge Leadership
+    </div>
+  </div>
+
+ <HorizontalCard
+    title="YouTube: NasTech Solutions"
+    desc="Producing technical deep-dives on Data Pipelines, AI workflows, and Engineering best practices to empower the regional tech ecosystem."
+    url="https://www.youtube.com/@nastechSol"
+    badge="YOUTUBE"
+  />
+  <div class="divider my-0 opacity-50"></div>
+
+  <HorizontalCard
+    title="Newsletter: Cloud & Data Systems"
+    desc="Bridging the gap between Cloud Infrastructure, Big Data, and AI Engineering for a growing community of 500+ professional subscribers."
+    url="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7275175863418036226"
+    badge="LINKEDIN"
+  />
+  <div class="divider my-0 opacity-50"></div>
+
+  <HorizontalCard
+    title="Technical Strategy: UNESCO Body Mind Wellness Club"
+    desc="Collaborating with the UNESCO BMW Club to propagate peace and sustainability. Contributing to global visibility and technical outreach in alignment with the 17 UN Sustainable Development Goals for 2030."
+    url="https://unescobmw.org/"
+    badge="GLOBAL VOLUNTEER"
+  />
+
+ 
+</BaseLayout>

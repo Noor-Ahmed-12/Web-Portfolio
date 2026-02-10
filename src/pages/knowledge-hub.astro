@@ -1,0 +1,124 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+---
+
+<BaseLayout title="Knowledge Hub | Noor Ahmed" sideBarActiveItemID="knowledge-hub">
+  <div class="mb-10">
+    <div class="text-3xl w-full font-bold text-primary">Knowledge Hub</div>
+    <p class="py-2 text-lg opacity-80">
+      A centralized resource for technical research, academic reviews, and digital content creation.
+    </p>
+  </div>
+
+  <div class="text-2xl w-full font-bold mb-5 border-b border-primary/20 pb-2 italic text-primary">
+    Academic Contributions & Research
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
+    <div class="bg-base-100 border border-base-300 rounded-2xl p-6 hover:shadow-lg transition-all border-l-4 border-l-primary">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="badge badge-primary text-[10px] font-bold">GUEST AUTHOR</span>
+        <span class="text-[10px] font-bold opacity-50 uppercase tracking-widest text-primary">IEEE Computer Society</span>
+      </div>
+      <h3 class="text-xl font-bold mb-2 leading-tight">Technical Blogging @ IEEE Tech News</h3>
+      <p class="text-sm opacity-70 mb-4">
+        Contributing guest posts to the IEEE Insider News, focusing on software engineering trends and member insights.
+      </p>
+      <a href="https://www.computer.org/publications/tech-news" target="_blank" class="text-primary text-sm font-bold hover:underline">Read on IEEE Portal →</a>
+    </div>
+
+    <div class="bg-base-100 border border-base-300 rounded-2xl p-6 hover:shadow-lg transition-all border-l-4 border-l-secondary">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="badge badge-secondary text-[10px] font-bold text-white uppercase">Volunteer Reviewer</span>
+      </div>
+      <h3 class="text-xl font-bold mb-2 leading-tight">IEEE Conference Paper Review</h3>
+      <p class="text-sm opacity-70 mb-4">
+        Collaborating with conference leads to peer-review virtual conference papers, ensuring technical accuracy and academic excellence.
+      </p>
+      <div class="flex flex-wrap gap-2">
+         <span class="badge badge-ghost text-[10px]">Academic Review</span>
+         <span class="badge badge-ghost text-[10px]">Virtual Conferences</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-2xl w-full font-bold mb-5 mt-10 border-b border-red-600/20 pb-2 italic text-red-600">
+    Video Tutorials & Tech Talks
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-12">
+    <div class="lg:col-span-2 aspect-video rounded-3xl overflow-hidden bg-black shadow-2xl border border-white/10">
+      <iframe 
+        width="100%" 
+        height="100%" 
+        src="https://www.youtube.com/embed/CL-NPJEQqO0?si=XkI4qfsyWTU53Fcu" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+      </iframe>
+    </div>
+    
+    <div class="bg-base-200 rounded-3xl p-6 flex flex-col justify-center border border-base-300">
+      <h3 class="text-xl font-bold mb-3">Latest on YouTube</h3>
+      <p class="text-sm opacity-70 mb-6">
+        I break down complex concepts into digestible video tutorials. From full-stack deployment to AI integration, watch my latest insights.
+      </p>
+      <a href="https://www.youtube.com/@nastechSol" target="_blank" class="btn btn-error text-white gap-2">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg>
+        Visit Channel
+      </a>
+    </div>
+  </div>
+
+  <div class="text-2xl w-full font-bold mb-5 mt-10 border-b border-[#0077b5]/20 pb-2 italic text-[#0077b5]">
+    LinkedIn Newsletter: The Tech Pulse
+  </div>
+
+  <div class="space-y-6 mb-20">
+    <div class="bg-[#0077b5]/5 border border-[#0077b5]/20 p-8 rounded-[2rem] flex flex-col md:flex-row gap-8 items-center">
+       <div class="shrink-0 w-24 h-24 bg-[#0077b5] rounded-2xl flex items-center justify-center text-white shadow-lg shadow-[#0077b5]/30">
+          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="currentColor"><path d="M20 0h-16c-2.21 0-4 1.79-4 4v16c0 2.21 1.79 4 4 4h16c2.21 0 4-1.79 4-4v-16c0-2.21-1.79-4-4-4zm-12.25 19h-2.75v-9h2.75v9zm-1.375-10.25c-.897 0-1.625-.727-1.625-1.625s.728-1.625 1.625-1.625 1.625.727 1.625 1.625-.728 1.625-1.625 1.625zm12.625 10.25h-2.75v-4.5c0-1.072-.02-2.45-1.493-2.45-1.494 0-1.72 1.167-1.72 2.373v4.577h-2.75v-9h2.64v1.231h.037c.368-.696 1.264-1.431 2.603-1.431 2.783 0 3.297 1.832 3.297 4.214v4.986z"/></svg>
+       </div>
+       <div class="flex-1 text-center md:text-left">
+          <h3 class="text-2xl font-bold mb-2">Technical Deep-Dives</h3>
+          <p class="opacity-80 mb-4">
+            Join 400+ readers on my weekly newsletter where I discuss system design, open-source strategy, and the future of AI.
+          </p>
+          <a href="https://www.linkedin.com/newsletters/cloud-data-systems-7275175863418036226/" class="btn btn-primary bg-[#0077b5] border-none text-white px-8 rounded-full">Subscribe on LinkedIn</a>
+       </div>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+       {
+         [1, 2, 3].map((post) => (
+           <div class="bg-base-100 border border-base-300 p-4 rounded-xl hover:border-primary transition-colors cursor-pointer group">
+              <div class="w-full aspect-[4/5] bg-base-200 rounded-lg mb-3 overflow-hidden">
+                 <div class="w-full h-full flex items-center justify-center text-xs opacity-30 italic group-hover:opacity-100 transition-opacity">
+                    [Post Preview Image]
+                 </div>
+              </div>
+              <h4 class="font-bold text-sm mb-1 leading-tight">Mastering React Server Components...</h4>
+              <p class="text-[10px] opacity-50">Published • Feb 2026</p>
+           </div>
+         ))
+       }
+    </div>
+  </div>
+
+  <div class="flex flex-wrap justify-center gap-3 py-10 opacity-50">
+    <span class="text-xs font-mono">#BuildInPublic</span>
+    <span class="text-xs font-mono">•</span>
+    <span class="text-xs font-mono">#OpenSource</span>
+    <span class="text-xs font-mono">•</span>
+    <span class="text-xs font-mono">#IEEEComputerSociety</span>
+    <span class="text-xs font-mono">•</span>
+    <span class="text-xs font-mono">#CivicTech</span>
+  </div>
+</BaseLayout>
+
+<style>
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
