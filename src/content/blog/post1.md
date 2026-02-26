@@ -11,47 +11,27 @@ Leadership is about the lives we influence. In early 2026, I served as a **Youth
 ### The ‘Soch se Taqdeer’ Framework
 The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on helping students move from a mindset of circumstance to one of action. 
 
-### 📸 Photos from the Sessions
+### 📸 Gallery: Mentorship in Action
 
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 my-8">
-  {
-    [
-      "1SDdvhj5XnO-f5FcQHc0k-tenkBkM-EAX",
-      "1gCzaLgUZP2Fzz33P470U2JAGv5JBJ7bv",
-      "1wr9kqnvnypvzJPVcKHds6ll69325k-5j",
-      "1BfZzjab0R8sOzo0G7LB7nyiHk75RMW6E",
-      "1sgUCX7NJPmseMFJEmHQURrMylBK8k8VS",
-      "1Te6_6b9cWBDhl4A4NdtLF3DhKyKOwWpI",
-      "1ZsxEOOhxxGutzwzH8Cs_PbBD0MpEl4nv",
-      "1bJMblDrzr0DKdTcwPZFeQga5At4FSJCx",
-      "1KA3efT5ZoGS3OZ5kTbm27z8UA39x1hMe",
-      "1QNvVgCe0risC36Z70mijDYytS9Z_-GjJ",
-      "1Yu5Qwe01VVv1ocvDfQHvQv0I7O3VAYSS",
-      "1VJu5d-71lGhqdM4Aq1misU8Ij-hKEkFJ",
-      "1u5EAo6Tx5ReXlHMCcQ0TjXw7-E-SKqGi",
-      "1dPq-Fsxtf3lgzEUwaS9g3rLBH7ptaAX6",
-      "1ujelMTpPi5ERkP-Xs6bnAtbxTxwyj7Lx",
-      "1SL97sbxh_3EV5RtChqMuuxBJ8BLIA50a",
-      "1FR5LbA5EzqcVLr9cj5nPo4lkNEcrx3wW",
-      "1R3-BaKXnwewRIvcdMnrMqg41jKCQhu3b",
-      "1pRY8KubRWZ3nCfuHClL0OfN6WRQ8GXn_",
-      "16ZTH_pcVhL-WGlgsaKPARlqRmON9suem"
-    ].map((id) => (
-      <div class="aspect-video rounded-xl overflow-hidden border border-base-300 shadow-sm bg-base-200 group">
-        <img 
-          src={`https://drive.google.com/uc?id=${id}`} 
-          class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" 
-          alt="TCF Mentorship Session"
-          loading="lazy"
-        />
-      </div>
-    ))
-  }
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
+  
+  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
+    <img src="https://lh3.googleusercontent.com/d/1SDdvhj5XnO-f5FcQHc0k-tenkBkM-EAX" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+
+  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
+    <img src="https://lh3.googleusercontent.com/d/1gCzaLgUZP2Fzz33P470U2JAGv5JBJ7bv" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+
+  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
+    <img src="https://lh3.googleusercontent.com/d/1wr9kqnvnypvzJPVcKHds6ll69325k-5j" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+
+  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
+    <img src="https://lh3.googleusercontent.com/d/1BfZzjab0R8sOzo0G7LB7nyiHk75RMW6E" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+
 </div>
-
-<p class="text-[10px] opacity-40 mt-[-1rem] mb-8 text-center italic uppercase tracking-widest">
-  Digital documentation of 'Mera Rahbar' curriculum
-</p>
 
 We focused on three main areas:
 1. **Self-Regulation:** Managing emotions and stress in difficult environments.
