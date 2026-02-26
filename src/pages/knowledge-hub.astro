@@ -91,20 +91,52 @@ import HorizontalCard from "../components/HorizontalCard.astro";
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-       {
-         [1, 2, 3].map((post) => (
-           <div class="bg-base-100 border border-base-300 p-4 rounded-xl hover:border-primary transition-colors cursor-pointer group">
-              <div class="w-full aspect-[4/5] bg-base-200 rounded-lg mb-3 overflow-hidden">
-                 <div class="w-full h-full flex items-center justify-center text-xs opacity-30 italic group-hover:opacity-100 transition-opacity">
-                    [Post Preview Image]
-                 </div>
-              </div>
-              <h4 class="font-bold text-sm mb-1 leading-tight">Mastering React Server Components...</h4>
-              <p class="text-[10px] opacity-50">Published • Feb 2026</p>
-           </div>
-         ))
-       }
-    </div>
+  {
+    [
+      {
+        title: "From FinOps to GreenOps: Why Your Architecture is a Climate Issue",
+        date: "Feb 2026",
+        link: "https://www.linkedin.com/pulse/from-finops-greenops-why-your-architecture-climate-noor-ahmed-shaikh-cbzkf/",
+        image: "https://media.licdn.com/dms/image/v2/D4D12AQF_1_2_3/article-cover_image-shrink_720_1280/0/1709123456789?e=1715212800&v=beta&t=example" 
+      },
+      {
+        title: "Exam Guide: AWS Certified Solutions Architect (2025 Edition)",
+        date: "Jan 2026",
+        link: "https://www.linkedin.com/pulse/exam-guide-aws-certified-solutions-architect-2025-noor-ahmed-shaikh-wyi0f/",
+        image: "https://media.licdn.com/dms/image/v2/D4D12AQF_9_8_7/article-cover_image-shrink_720_1280/0/1708123456789?e=1715212800&v=beta&t=example"
+      },
+      {
+        title: "AI-Powered Resource Allocation: Optimizing EC2 & RDS",
+        date: "Jan 2026",
+        link: "https://www.linkedin.com/pulse/ai-powered-resource-allocation-optimizing-ec2-rds-noor-ahmed-shaikh-vlbqf/",
+        image: "https://media.licdn.com/dms/image/v2/D4D12AQF_4_5_6/article-cover_image-shrink_720_1280/0/1707123456789?e=1715212800&v=beta&t=example"
+      }
+    ].map((post) => (
+      <a 
+        href={post.link} 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="bg-base-100 border border-base-300 p-4 rounded-xl hover:border-primary transition-all cursor-pointer group flex flex-col h-full shadow-sm hover:shadow-md"
+      >
+        <div class="w-full aspect-[16/9] bg-base-200 rounded-lg mb-4 overflow-hidden border border-base-300/30">
+          <img 
+            src={post.image} 
+            alt={post.title}
+            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+            onerror="this.src='https://placehold.co/600x400/0077b5/white?text=LinkedIn+Article'"
+          />
+        </div>
+        <h4 class="font-bold text-sm mb-2 leading-tight group-hover:text-primary transition-colors line-clamp-2">
+          {post.title}
+        </h4>
+        <div class="mt-auto flex items-center justify-between">
+            <p class="text-[10px] opacity-50 font-medium">Published • {post.date}</p>
+            <span class="text-[10px] text-primary font-bold opacity-0 group-hover:opacity-100 transition-opacity">READ →</span>
+        </div>
+      </a>
+    ))
+  }
+</div>
   </div>
 
   <div class="flex flex-wrap justify-center gap-3 py-10 opacity-50">
