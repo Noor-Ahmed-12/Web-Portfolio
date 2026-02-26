@@ -2,7 +2,7 @@
 title: "ArcPay: Engineering Autonomous Financial Workflows with Gemini & Circle"
 description: "A deep-dive into ArcPay, a solution developed for the Arc Global Hackathon to solve the problem of financial orchestration for AI Agents."
 pubDate: "Jan 26 2026"
-heroImage: "https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fi0vk9hz4f3zx7trp5qy0v8y2%2Fi0vk9hz4f3zx7trp5qy0v8y2_thumbnailLink_ijjiqid0eqout9gnmo28bjm4.jpg&w=640&q=75"
+heroImage: "public\arypay.png"
 tags: ["AI Agents", "FinTech", "Web3"]
 badge: ["AI Hackathon Project", "Leadership"]
 ---
