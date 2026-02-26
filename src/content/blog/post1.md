@@ -6,6 +6,39 @@ heroImage: "https://lh3.googleusercontent.com/u/0/d/1wr9kqnvnypvzJPVcKHds6ll6932
 tags: ["Social Impact", "Leadership", "Education Equity"]
 badge: "Community Leadership"
 ---
+
+Leadership is about the lives we influence. In early 2026, I served as a **Youth Mentor (Rahbar)** for **The Citizens Foundation (TCF)**. For six weeks, I worked with a group of 8th-grade students at the Naseem Faruq Campus to help them navigate their future goals and build a stronger foundation for their careers.
+
+### The ‘Soch se Taqdeer’ Framework
+The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on helping students move from a mindset of circumstance to one of action. 
+
+We focused on three main areas:
+1. **Self-Regulation:** Managing emotions and stress in difficult environments.
+2. **Habit Engineering:** Identifying 'Buri' (Bad) habits and replacing them with 'Achi' (Good) habits that help them succeed.
+3. **Vision Casting:** Mapping out long-term career goals that go beyond their immediate surroundings.
+
+### The Results
+During these six weeks, I focused on being a consistent guide for my students:
+* **24+ Hours of Mentorship:** Conducted intensive face-to-face sessions on weekends.
+* **1:8 Mentor-Student Ratio:** Worked closely with a dedicated group of 8 students to provide individual guidance.
+* **100% Completion:** Every student in my cohort successfully finished the program and received their certification.
+
+### STEM and the Future
+Even though the program isn't strictly technical, I used my background as a **Software Engineer** to show these students what is possible in the tech world. Many see technology as something out of reach; I wanted to show them it's a tool they can use.
+
+I shared:
+* **Logic and Life:** How the same logic used in coding helps in making better life decisions.
+* **Tech Roadmaps:** A clear path for how they can enter the global tech economy, regardless of where they start.
+* **Civic Tech:** How they can eventually build systems to solve problems in their own neighborhoods.
+
+### Reflection
+This experience confirmed that education equity is the only way forward. Being a *‘Rahbar’* (Guide) required patience and empathy. It was about showing these students that their location doesn't define their potential, in line with **UN Sustainable Development Goal 4 (Quality Education)**.
+
+---
+
+### 📸 Photos from the Sessions
+You can see the journey of this cohort—including the certification ceremony—in my gallery.
+
 <div style="display: grid; grid-cols: 1; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 2rem 0;">
 
   <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
@@ -70,38 +103,5 @@ badge: "Community Leadership"
 
 </div>
 
-Leadership is about the lives we influence. In early 2026, I served as a **Youth Mentor (Rahbar)** for **The Citizens Foundation (TCF)**. For six weeks, I worked with a group of 8th-grade students at the Naseem Faruq Campus to help them navigate their future goals and build a stronger foundation for their careers.
-
-### The ‘Soch se Taqdeer’ Framework
-The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on helping students move from a mindset of circumstance to one of action. 
-
-We focused on three main areas:
-1. **Self-Regulation:** Managing emotions and stress in difficult environments.
-2. **Habit Engineering:** Identifying 'Buri' (Bad) habits and replacing them with 'Achi' (Good) habits that help them succeed.
-3. **Vision Casting:** Mapping out long-term career goals that go beyond their immediate surroundings.
-
-### The Results
-During these six weeks, I focused on being a consistent guide for my students:
-* **24+ Hours of Mentorship:** Conducted intensive face-to-face sessions on weekends.
-* **1:8 Mentor-Student Ratio:** Worked closely with a dedicated group of 8 students to provide individual guidance.
-* **100% Completion:** Every student in my cohort successfully finished the program and received their certification.
-
-### STEM and the Future
-Even though the program isn't strictly technical, I used my background as a **Software Engineer** to show these students what is possible in the tech world. Many see technology as something out of reach; I wanted to show them it's a tool they can use.
-
-I shared:
-* **Logic and Life:** How the same logic used in coding helps in making better life decisions.
-* **Tech Roadmaps:** A clear path for how they can enter the global tech economy, regardless of where they start.
-* **Civic Tech:** How they can eventually build systems to solve problems in their own neighborhoods.
-
-### Reflection
-This experience confirmed that education equity is the only way forward. Being a *‘Rahbar’* (Guide) required patience and empathy. It was about showing these students that their location doesn't define their potential, in line with **UN Sustainable Development Goal 4 (Quality Education)**.
-
----
-
-### 📸 Photos from the Sessions
-You can see the journey of this cohort—including the certification ceremony—in my gallery.
-
-**[View the full gallery in the Knowledge Hub →](/social-work)**
 
 #SocialImpact #Mentorship #TCF #Rahbar #EducationEquity #STEM #Leadership
