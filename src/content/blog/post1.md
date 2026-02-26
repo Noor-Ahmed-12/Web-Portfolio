@@ -6,11 +6,6 @@ heroImage: "https://lh3.googleusercontent.com/u/0/d/1wr9kqnvnypvzJPVcKHds6ll6932
 tags: ["Social Impact", "Leadership", "Education Equity"]
 badge: "Community Leadership"
 ---
-Leadership is about the lives we influence. In early 2026, I served as a **Youth Mentor (Rahbar)** for **The Citizens Foundation (TCF)**. For six weeks, I worked with a group of 8th-grade students at the Naseem Faruq Campus to help them navigate their future goals and build a stronger foundation for their careers.
-
-### The ‘Soch se Taqdeer’ Framework
-The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on helping students move from a mindset of circumstance to one of action. 
-
 <div style="display: grid; grid-cols: 1; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 2rem 0;">
 
   <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
@@ -74,22 +69,11 @@ The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on help
   </div>
 
 </div>
-<script>
-  const lightbox = document.getElementById('lightbox');
-  const lightboxImg = document.getElementById('lightbox-img');
-  const images = document.querySelectorAll('.gallery-img');
 
-  images.forEach(img => {
-    img.parentElement.onclick = () => {
-      lightbox.style.display = 'flex';
-      lightboxImg.src = img.src;
-    };
-  });
+Leadership is about the lives we influence. In early 2026, I served as a **Youth Mentor (Rahbar)** for **The Citizens Foundation (TCF)**. For six weeks, I worked with a group of 8th-grade students at the Naseem Faruq Campus to help them navigate their future goals and build a stronger foundation for their careers.
 
-  lightbox.onclick = () => {
-    lightbox.style.display = 'none';
-  };
-</script>
+### The ‘Soch se Taqdeer’ Framework
+The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on helping students move from a mindset of circumstance to one of action. 
 
 We focused on three main areas:
 1. **Self-Regulation:** Managing emotions and stress in difficult environments.
