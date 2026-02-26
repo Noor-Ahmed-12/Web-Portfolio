@@ -6,43 +6,40 @@ heroImage: "https://lh3.googleusercontent.com/u/0/d/1wr9kqnvnypvzJPVcKHds6ll6932
 tags: ["Social Impact", "Leadership", "Education Equity"]
 badge: "Community Leadership"
 ---
+Leadership is about the lives we influence. In early 2026, I served as a **Youth Mentor (Rahbar)** for **The Citizens Foundation (TCF)**. For six weeks, I worked with a group of 8th-grade students at the Naseem Faruq Campus to help them navigate their future goals and build a stronger foundation for their careers.
 
-Leadership is not defined by the systems we manage, but by the lives we influence. In early 2026, I was selected as a **Youth Mentor (Rahbar)** for **The Citizens Foundation (TCF)**. Over a 6-week period, I led a cohort of 8th-grade students at the Naseem Faruq Campus through a structured behavioral change program designed to break the cycle of poverty through mindset shifts.
-
-### The 'Soch se Taqdeer' Framework
-The curriculum, *'Soch se Taqdeer'* (from Thought to Destiny), is rooted in cognitive-behavioral principles. As a mentor, my role was to facilitate the transition from a **circumstantial mindset** to an **agentic mindset**.
-
-
-
-We focused on three core pillars:
-1. **Self-Regulation:** Workshops on emotional intelligence (EQ) to help students navigate high-stress environments.
-2. **Habit Engineering:** Identifying 'Achi' (Good) and 'Buri' (Bad) habits using a feedback loop model.
-3. **Vision Casting:** Long-term career mapping that extends beyond their immediate socio-economic boundaries.
-
-### Quantifying the Impact
-Scholarship committees look for measurable results. During this tenure:
-* **24+ Direct Mentorship Hours:** Conducted intensive face-to-face sessions focusing on resilience and goal-setting.
-* **1:8 Mentor-Student Ratio:** Provided personalized vocational guidance to a dedicated cohort, ensuring no student was left in a "data shadow."
-* **100% Completion Rate:** Successfully led all assigned students to their certification ceremony, fostering a sense of achievement and social responsibility.
+### The ‘Soch se Taqdeer’ Framework
+The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on helping students move from a mindset of circumstance to one of action. 
 
 
 
-### STEM Advocacy: Engineering as a Tool for Equity
-The highlight of my experience was leveraging my background as a **Software Engineer** to advocate for digital literacy. In underserved communities, technology is often seen as "magic" rather than a "tool." 
+We focused on three main areas:
+1. **Self-Regulation:** Managing emotions and stress in difficult environments.
+2. **Habit Engineering:** Identifying 'Buri' (Bad) habits and replacing them with 'Achi' (Good) habits that help them succeed.
+3. **Vision Casting:** Mapping out long-term career goals that go beyond their immediate surroundings.
 
-I demystified the path to STEM by:
-* Explaining how logic and problem-solving used in coding are the same tools needed to solve community issues.
-* Sharing the roadmap for entering the global tech economy, emphasizing that their location does not define their potential.
-* Illustrating the power of 'Civic Tech'—how they can one day build systems like **Numainda** to bring transparency to their own neighborhoods.
+### The Results
+During these six weeks, I focused on being a consistent guide for my students:
+* **24+ Hours of Mentorship:** Conducted intensive face-to-face sessions on weekends.
+* **1:8 Mentor-Student Ratio:** Worked closely with a dedicated group of 8 students to provide individual guidance.
+* **100% Completion:** Every student in my cohort successfully finished the program and received their certification.
 
-### Reflective Leadership
-This experience reinforced a vital truth: **Sustainable development is impossible without educational equity.** By building trusted bonds with these students, I wasn't just a teacher; I was a 'Rahbar' (Guide). This role required empathy, patience, and a commitment to the UN Sustainable Development Goal (SDG 4: Quality Education).
+### STEM and the Future
+Even though the program isn't strictly technical, I used my background as a **Software Engineer** to show these students what is possible in the tech world. Many see technology as something out of reach; I wanted to show them it's a tool they can use.
+
+I shared:
+* **Logic and Life:** How the same logic used in coding helps in making better life decisions.
+* **Tech Roadmaps:** A clear path for how they can enter the global tech economy, regardless of where they start.
+* **Civic Tech:** How they can eventually build systems to solve problems in their own neighborhoods.
+
+### Reflection
+This experience confirmed that education equity is the only way forward. Being a *‘Rahbar’* (Guide) required patience and empathy. It was about showing these students that their location doesn't define their potential, in line with **UN Sustainable Development Goal 4 (Quality Education)**.
 
 ---
 
-### 📸 Evidence of Impact
-You can view the documented journey of this cohort—including the certification ceremony and the interactive 'Mera Rahbar' activity modules—in my dedicated gallery.
+### 📸 Photos from the Sessions
+You can see the journey of this cohort—including the certification ceremony—in my gallery.
 
-**[View the full gallery of my mentorship sessions in the Knowledge Hub →](https://noorahmedshaikh.vercel.app/knowledge-hub)**
+**[View the full gallery in the Knowledge Hub →](/knowledge-hub)**
 
-#SocialImpact #Mentorship #TCF #Rahbar #EducationEquity #STEMAdvocacy #SDG4 #Leadership
+#SocialImpact #Mentorship #TCF #Rahbar #EducationEquity #STEM #Leadership
