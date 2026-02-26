@@ -4,7 +4,7 @@ description: "Exploring Social Sustainability and the responsibility of engineer
 pubDate: "Feb 26 2026"
 heroImage: "https://media.licdn.com/dms/image/v2/D4D12AQHyblzx5FMI1g/article-cover_image-shrink_720_1280/B4DZyArAUNJYAI-/0/1771685287024?e=2147483647&v=beta&t=BA3Ox5aU7dbOSXyzmV-k1avfH7Fvd6XmYHw1iPkGEFo"
 tags: ["Responsible AI", "Data Engineering", "Civic Tech"]
-badge: "Ethical use of AI"
+badge: "Ethical use of Technology"
 ---
 
 When we define "sustainability," we usually talk about carbon footprints and energy grids. But there is a second, equally critical dimension: **Social Sustainability.** As we architect a world where AI governs everything from healthcare access to credit scores, we have to ask: Is our underlying data infrastructure inclusive, or are we quietly automating inequality? In the 21st century, the "Digital Divide" isn't just about who has an internet connection; it’s about who is **visible** to the algorithms shaping our future.
