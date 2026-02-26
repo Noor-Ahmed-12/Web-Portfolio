@@ -3,7 +3,7 @@ title: "Cybersecurity & DSA: Building a Secure Password Manager in Java"
 description: "Bridging theoretical Computer Science with practical security using custom Hash Tables and SHA-1 Cryptography."
 pubDate: "Jan 10 2022"
 heroImage: "https://raw.githubusercontent.com/Noor-Ahmed-12/Password-Manager/66ea73dfc6be412117807649769b3dfe0f214021/img/password%20Manager.png" 
-tags: ["Java", "Cybersecurity", "DSA"]
+tags: ["12+ Stars (Github)","Java", "Cybersecurity", "DSA"]
 badge: "15k+ Views"
 ---
 
@@ -21,4 +21,4 @@ Showcased as an educational resource, the project walkthrough has reached **15,0
 
 ---
 
-**[GitHub Repository (12+ Stars) →](https://github.com/Noor-Ahmed-12)** | **[Watch Tutorial →](https://youtube.com/nastech)**
+**[GitHub Repository (12+ Stars) →](https://github.com/Noor-Ahmed-12/Password-Manager)** | **[Watch Tutorial →](https://www.youtube.com/watch?v=8LhfDjcXBnU)**

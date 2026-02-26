@@ -3,7 +3,7 @@ title: "Modern Fitness & Gym App: A Study in React.js & API Integration"
 description: "Building a high-performance fitness library using RapidAPI, Material-UI, and YouTube Synchronization."
 pubDate: "Jan 20 2023"
 heroImage: "https://user-images.githubusercontent.com/60597502/180904680-3ceba3e4-b8e2-4deb-a724-22731a849e91.png" 
-tags: ["React.js", "API Integration", "Cloud"]
+tags: ["7k+ Views","9+ Stars(Github)","React.js", "API Integration", "Cloud"]
 badge: "Full Stack Web Dev"
 ---
 
