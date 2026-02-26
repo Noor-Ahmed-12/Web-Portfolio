@@ -3,7 +3,7 @@ title: "Engineering Social Good: A Full-Stack Blood Donation Management System"
 description: "Architecting a PHP/MySQL solution to streamline donor-recipient matching and inventory tracking."
 pubDate: "Jan 15 2023"
 heroImage: "https://github.com/Noor-Ahmed-12/Blood-Donation-bank-Management-System/raw/main/blood%20donation%20project%20with%20database.png" 
-tags: ["PHP", "MySQL", "Web Engineering"]
+tags: ["10+ Stars(Github)","PHP", "MySQL", "Web Engineering"]
 badge: "15K+ Views"
 ---
 
