@@ -11,27 +11,85 @@ Leadership is about the lives we influence. In early 2026, I served as a **Youth
 ### The ‘Soch se Taqdeer’ Framework
 The program, *‘Soch se Taqdeer’* (From Thought to Destiny), is built on helping students move from a mindset of circumstance to one of action. 
 
-### 📸 Gallery: Mentorship in Action
+<div style="display: grid; grid-cols: 1; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 2rem 0;">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  
-  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
-    <img src="https://lh3.googleusercontent.com/d/1SDdvhj5XnO-f5FcQHc0k-tenkBkM-EAX" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1SDdvhj5XnO-f5FcQHc0k-tenkBkM-EAX" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1gCzaLgUZP2Fzz33P470U2JAGv5JBJ7bv" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1wr9kqnvnypvzJPVcKHds6ll69325k-5j" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
   </div>
 
-  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
-    <img src="https://lh3.googleusercontent.com/d/1gCzaLgUZP2Fzz33P470U2JAGv5JBJ7bv" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1BfZzjab0R8sOzo0G7LB7nyiHk75RMW6E" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1sgUCX7NJPmseMFJEmHQURrMylBK8k8VS" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1Te6_6b9cWBDhl4A4NdtLF3DhKyKOwWpI" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
   </div>
 
-  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
-    <img src="https://lh3.googleusercontent.com/d/1wr9kqnvnypvzJPVcKHds6ll69325k-5j" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1ZsxEOOhxxGutzwzH8Cs_PbBD0MpEl4nv" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1bJMblDrzr0DKdTcwPZFeQga5At4FSJCx" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1KA3efT5ZoGS3OZ5kTbm27z8UA39x1hMe" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
   </div>
 
-  <div style="aspect-ratio: 16/9; overflow: hidden; border-radius: 0.75rem; border: 1px solid #e5e7eb; background: #f3f4f6;">
-    <img src="https://lh3.googleusercontent.com/d/1BfZzjab0R8sOzo0G7LB7nyiHk75RMW6E" style="width: 100%; hieght: 100%; object-fit: cover;" alt="TCF Session" />
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1QNvVgCe0risC36Z70mijDYytS9Z_-GjJ" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1Yu5Qwe01VVv1ocvDfQHvQv0I7O3VAYSS" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1VJu5d-71lGhqdM4Aq1misU8Ij-hKEkFJ" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1u5EAo6Tx5ReXlHMCcQ0TjXw7-E-SKqGi" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1dPq-Fsxtf3lgzEUwaS9g3rLBH7ptaAX6" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1ujelMTpPi5ERkP-Xs6bnAtbxTxwyj7Lx" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1SL97sbxh_3EV5RtChqMuuxBJ8BLIA50a" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1FR5LbA5EzqcVLr9cj5nPo4lkNEcrx3wW" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
+  </div>
+  <div style="aspect-ratio: 1/1; overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://lh3.googleusercontent.com/d/1R3-BaKXnwewRIvcdMnrMqg41jKCQhu3b" style="width: 100%; height: 100%; object-fit: cover;" alt="TCF Session" />
   </div>
 
 </div>
+<script>
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img');
+  const images = document.querySelectorAll('.gallery-img');
+
+  images.forEach(img => {
+    img.parentElement.onclick = () => {
+      lightbox.style.display = 'flex';
+      lightboxImg.src = img.src;
+    };
+  });
+
+  lightbox.onclick = () => {
+    lightbox.style.display = 'none';
+  };
+</script>
 
 We focused on three main areas:
 1. **Self-Regulation:** Managing emotions and stress in difficult environments.
