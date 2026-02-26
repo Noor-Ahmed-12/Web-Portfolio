@@ -4,7 +4,7 @@ description: "Building a high-performance fitness library using RapidAPI, Materi
 pubDate: "Jan 20 2023"
 heroImage: "https://user-images.githubusercontent.com/60597502/180904680-3ceba3e4-b8e2-4deb-a724-22731a849e91.png" 
 tags: ["React.js", "API Integration", "Cloud"]
-badge: "Deployed"
+badge: "Full Stack Web Dev"
 ---
 
 During my internship with **Interns Pakistan**, I developed this React-based fitness hub. The project focuses on "Seamless Content Delivery"—integrating multiple data streams to provide a holistic user experience.

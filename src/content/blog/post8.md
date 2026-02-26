@@ -4,7 +4,7 @@ description: "Bridging theoretical Computer Science with practical security usin
 pubDate: "Jan 10 2022"
 heroImage: "https://raw.githubusercontent.com/Noor-Ahmed-12/Password-Manager/66ea73dfc6be412117807649769b3dfe0f214021/img/password%20Manager.png" 
 tags: ["Java", "Cybersecurity", "DSA"]
-badge: "University Project"
+badge: "15k+ Views"
 ---
 
 This project was developed as a **Data Structures & Algorithms (DSA)** capstone at Mehran University. It serves as a practical implementation of how mathematical complexity theory can be used to protect user data.
