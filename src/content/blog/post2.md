@@ -4,7 +4,7 @@ description: "A deep-dive into ArcPay, a solution developed for the Arc Global H
 pubDate: "Jan 26 2026"
 heroImage: "public\arypay.png"
 tags: ["AI Agents", "FinTech", "Web3"]
-badge: ["AI Hackathon Project", "Leadership"]
+badge: "AI Hackathon Project"
 ---
 
 Today, AI agents are "Financial Orphans." They can plan and reason, but they struggle to move value autonomously due to complex cash management and unreadable blockchain data. During the **Agentic Commerce on Arc Global Hackathon** (organized by Lablab.ai in collaboration with **Google DeepMind** & **Circle**), I developed **ArcPay**—a financial nervous system for autonomous agents.
